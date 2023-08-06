@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh; /* 为了让div占据整个视口高度 */
+}
+
+.centered-div {
+
+    /* 在这里设置div的样式 */
+}
+
+.image-container .qrcode {
+    display: none;
+}
+
+.image-container:hover .qrcode {
+    display: block;
+    width: 120px;
+    height: 120px;
+}
