@@ -6,6 +6,7 @@
 - Mac：[Trojan-Qt5-v1.4.0.dmg](packages/MacOS/Trojan-Qt5-v1.4.0.dmg?raw=true)
 ### 手机端
 - IOS：![OneClick](imgs/ios-oneclick.png)
+  <img src="imgs/ios-oneclick.png" alt="OneClick" width="120" height="120">
 - Android：![OneClick](imgs/android-oneclick.png)
 
 
