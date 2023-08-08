@@ -13,10 +13,12 @@
 
 ### 手机端
 #### IOS：
-    扫码下载：<img src="imgs/ios-oneclick.png" alt="OneClick" width="120" height="120">
+    扫码下载：
+<img src="imgs/ios-oneclick.png" alt="OneClick" width="120" height="120">
 
 #### Android：
-    扫码下载：<img src="imgs/android-oneclick.png" alt="OneClick" width="120" height="120">
+    扫码下载：
+<img src="imgs/android-oneclick.png" alt="OneClick" width="120" height="120">
 
 
 ## 第二步：获取服务器节点
