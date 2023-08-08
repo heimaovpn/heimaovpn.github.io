@@ -2,7 +2,7 @@
 
 ## 客户端下载
 不同的系统需要下载不同的客户端
-- Windows系统：[Trojan-Qt5-v1.4.0.exe](packages/Windows/Trojan-Qt5-v1.4.0.exe)
+- Windows系统：[Trojan-Qt5-v1.4.0.exe](packages/Windows/Trojan-Qt5-v1.4.0.exe?raw=true)
 
 
 
